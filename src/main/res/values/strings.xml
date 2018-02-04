@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MoodBible</string>
+    <string name="edit_mood">Enter a mood</string>
+    <string name="button_happy">Happy</string>
+    <string name="button_sad">Sad</string>
+    <string name="intro_text">How are you feeling?</string>
+    <string name="default_verse">[verse]</string>
+    <string name="default_song">[song]</string>
+    <string name="default_testimony">[testimony]</string>
+    <string name="song_button">GO TO SONG</string>
+    <string name="testimony_button">GO TO TESTIMONY</string>
+    <string name="default_reference">[reference]</string>
+    <string name="credits_text">Ethan Liao, Charles Li, Harrison Ku: HackPoly 2018</string>
+</resources>
